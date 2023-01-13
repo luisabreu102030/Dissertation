@@ -21,7 +21,7 @@ In my dissertation you will find :
 
 - Obtained results, their discussion and future work to do
 
-### 1. DL model for Human Activity Recognition in PD patients <ins>Test performance</ins> results
+## DL model for Human Activity Recognition in PD patients <ins>Test performance</ins> results
 
 ![Confusion matrix](/images/har_confusion_matrix.png)
 
@@ -33,7 +33,7 @@ In my dissertation you will find :
 
 
 
-### 2. DL model for Human Walk IC/FC detection in PD patients <ins>Test performance</ins> results
+## DL model for Human Walk IC/FC detection in PD patients <ins>Test performance</ins> results
 
 ![Confusion matrix](/images/icfc_confusion_matrix.png)
 
