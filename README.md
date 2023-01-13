@@ -19,6 +19,8 @@ In my dissertation you will find :
 
 ![model optimization/train/validation/test stages](/images/pipeline_schema.png)
 
+- Obtained results, their discussion and future work to do
+
 ### DL model for Human Activity Recognition in PD patients <ins>Test performance</ins> results
 
 ![Confusion matrix](/images/har_confusion_matrix.png)
@@ -27,7 +29,7 @@ In my dissertation you will find :
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |Test|0.326218|0.907432|0.944849|0.944849|0.90892|
 
-- Obtained results, their discussion and future work to do
+
 
 
 
