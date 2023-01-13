@@ -8,10 +8,10 @@ During my master’s dissertation I have also developed a deep learning algorith
 My master’s dissertation was framed in [BiRDLAB +sense project](http://birdlab.dei.uminho.pt/biofeedback-devices/), which aims to develop high technological solutions capable of monitoring, assessing, and assisting Parkinson’s disease patients.
 
 In my dissertation you will find :
-- A <ins>literature review</> performed by me;
+- A <ins>literature review</ins> performed by me;
 - A Parkinson's disease patient **data collection protocol designed and implemented** by me;
-- What Data cleaning steps were applied
-- How the Dataset divided into train, validation and test dataset.
+- What <ins>Data cleaning</ins> steps were applied
+- How the Dataset divided into <ins>train, validation and test dataset</ins>.
 
 ![Dataset division](/images/dataset_schema.png)
 
