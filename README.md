@@ -11,7 +11,7 @@ In my dissertation you will find :
 - A <ins>literature review</ins> performed by me;
 - A Parkinson's disease patient **data collection protocol designed and implemented** by me;
 - What <ins>Data cleaning</ins> steps were applied
-- How the Dataset divided into <ins>train, validation and test dataset</ins>.
+- How the Dataset was divided into <ins>optimization, train, validation and test dataset</ins>.
 
 ![Dataset division](/images/dataset_schema.png)
 
