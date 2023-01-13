@@ -8,12 +8,33 @@ During my master’s dissertation I have also developed a deep learning algorith
 My master’s dissertation was framed in [BiRDLAB +sense project](http://birdlab.dei.uminho.pt/biofeedback-devices/), which aims to develop high technological solutions capable of monitoring, assessing, and assisting Parkinson’s disease patients.
 
 In my dissertation you will find :
-- A literature review performed by me;
-- A Parkinson's disease Patient data collection protocol designed and implemented by me;
-- What Data cleaning steps were applyied
+- A <ins>literature review</> performed by me;
+- A Parkinson's disease patient **data collection protocol designed and implemented** by me;
+- What Data cleaning steps were applied
 - How the Dataset divided into train, validation and test dataset.
+
+![Dataset division](/images/dataset_schema.png)
+
 - How does the proposed model was optimized, trained, validated and finally tested against unknown data.
 
-### DL model for Human Activity Recognition in PD patients results
+![model optimization/train/validation/test stages](/images/pipeline_schema.png)
 
-### DL model for Human Walk IC/FC detection in PD patients results
+### DL model for Human Activity Recognition in PD patients <ins>Test performance</ins> results
+
+![Confusion matrix](/images/har_confusion_matrix.png)
+
+|Dataset|Loss|Accuracy|Precision|Recall|F1 score|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|Test|0.326218|0.907432|0.944849|0.944849|0.90892|
+
+- Obtained results, their discussion and future work to do
+
+
+
+### DL model for Human Walk IC/FC detection in PD patients <ins>Test performance</ins> results
+
+![Confusion matrix](/images/icfc_confusion_matrix.png)
+
+|Dataset|Loss|Accuracy|Precision|Recall|F1 score|AUC|MCC
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|Test|0.540085|0.781152|0.774337|0.93841 |0.841554|0.854381|0.538386|
